@@ -1,0 +1,7 @@
+/* Button to email studios for Reformer PT session, bottom of pricing page. */
+@media (max-width: 860px) {
+  .pt-buttons {
+      flex-direction: column;
+      padding: 0;
+    }
+  }
